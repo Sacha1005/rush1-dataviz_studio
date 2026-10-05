@@ -1,12 +1,16 @@
 # Rush 1 : DataViz Studio — TikTok Performance Analysis
 
-## Livrable Final
-Ce dépôt contient le livrable unique au format client pour l'agence et la marque grand public (B2C) :
-- **`tiktok_performance_analysis.xlsx`** : Classeur Excel autonome, sans macros, structuré pour une prise de décision en moins de 5 minutes.
+## Livrables Officiels du Projet
+Ce dépôt contient les livrables d'excellence conçus pour la direction d'agence et la marque grand public (B2C) :
+
+1. **`tiktok_performance_analysis.xlsx`** : Classeur Excel Master Haute Définition (5 onglets), autonome, sans macro, structuré pour une prise de décision exécutive en moins de 5 minutes.
+2. **`Guide_Presentation_Oral_Walkthrough.docx`** : Document Word complet contenant le script mot à mot du pitch oral de 5 minutes chrono, le guidage visuel par onglet et les réponses data irréfutables aux questions pièges du manager.
 
 > **Conformité RGPD & Politique Agence** : Conformément aux exigences du kick-off, les extractions brutes (fichiers CSV contenant des identifiants techniques et données privées non pertinentes) ont été expurgées du livrable client et ne sont pas diffusées. Seule la version préparée, typée et anonymisée est fournie.
 
-## Structure du Classeur Excel (.xlsx)
+---
+
+## Structure du Classeur Excel Master (.xlsx)
 
 1. **Executive Summary** *(Page d'accueil par défaut)* :
    - 4 Cartes KPIs clés (6,79 Mds vues analysées, 16,1% d'engagement médian, 106,9x multiplicateur viral micro-comptes, 75% sons originaux).
@@ -27,6 +31,12 @@ Ce dépôt contient le livrable unique au format client pour l'agence et la marq
    - Impact de l'audio original (+20% de vues vs sons sous licence).
    - Facteurs testés sans influence significative (Badge vérifié, Stitch).
 
-4. **Clean Data** :
+4. **Campaign Simulator & ROI** *(Niveau Direction)* :
+   - Modélisation financière sur une enveloppe type de 100 000 €.
+   - Comparaison rigoureuse : Scénario Classique (100% Mega) vs Scénario Data-Driven (70% Micro/Mid + 30% Mega).
+   - Gains prouvés : Portée doublée (+114% de vues), engagement accru (+4,4 pts), CPM divisé par deux (0,84 € vs 1,81 €) et risque algorithmique dilué sur 14 créateurs.
+   - Panier de casting type avec formules Excel dynamiques.
+
+5. **Clean Data** :
    - 100 observations nettoyées et enrichies.
    - Formules Excel dynamiques pour le total des interactions, le taux d'engagement et le multiplicateur viral.
